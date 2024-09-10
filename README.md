@@ -1,3 +1,3 @@
 # myproject
 This is test repo
-This project created by mohamed rajab
+This project is created by mohamed rajab
